@@ -1,7 +1,7 @@
 
 while True:
     t = int(input("Choose ( + = 0, - = 1, * = 2, / = 3 ): "))
-    if t == 4:
+    if t == 55:
         print("Thanks")
         break
     num1 = int(input("Num 1: "))
